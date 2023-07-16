@@ -3,6 +3,8 @@ Requirements:
 pandas
 numpy
 matplotlib
+scikit-learn
+seaborn
 
 
 I have recived from a friend of a friend a data set of a company, that preforms each user 6 questions that all messure quality feature in each applicant. 
